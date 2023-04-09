@@ -1,6 +1,6 @@
 #youtube.yaml
-- name: "TVBS新闻台"
-  url: "https://www.youtube.com/watch?v=2mCSYvcfhtc"
+- name: "Test"
+  url: "https://www.youtube.com/watch?v=eWpjGpGb5tY"
   resolution: "1080"
 - name: "东森新闻台"
   url: "https://www.youtube.com/watch?v=R2iMq5LKXco"
